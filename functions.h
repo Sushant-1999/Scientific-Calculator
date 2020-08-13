@@ -1,0 +1,21 @@
+void functions();
+double sine(double x);
+double cosine(double x);
+double tan(double x);
+double ln(double x);
+double reciprocal(double x);
+double exp(double x);
+double sininverse(double x);
+double cosinverse(double x);
+double powr(int x, int y);
+double combination(int n, int r);
+int factorial(int n);
+void converter();
+void complexfunc();
+void lenghtconv();
+void massconv();
+void timeconv();
+void currency();
+void temprature();
+void DecimaltoBasen();
+

@@ -1,0 +1,3 @@
+For this project, I took help from the class code of postfix.
+Also I searched for the taylor series expansions for various trigonometric, inverse trigonometric, etc functions
+so that i can derive the code from that expansions.

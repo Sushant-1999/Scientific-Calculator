@@ -1,0 +1,7 @@
+This is Sushant Agawane
+MIS No. is 111708004
+I am going to make a scientific calculator which will have following options
+1. Basic calculator using postfix
+2.Mathematical Functions
+3.Converter
+4.Complex number operations
